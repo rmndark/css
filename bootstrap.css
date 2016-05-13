@@ -710,7 +710,7 @@ box-shadow: 0 1px 3px #432}
 .label-default[href]:hover,.label-default[href]:focus{background-color:#808080}
 .label-primary{background-color:#428bca}
 .label-primary[href]:hover,.label-primary[href]:focus{background-color:#3071a9}
-.label-success{background-color:#5cb85c}
+.label-success{background-color:#cccc99}
 .label-success[href]:hover,.label-success[href]:focus{background-color:#819ab1}
 .label-info{background-color:#5bc0de}
 .label-info[href]:hover,.label-info[href]:focus{background-color:#31b0d5}
