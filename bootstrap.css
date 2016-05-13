@@ -667,10 +667,10 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 .navbar-default>.container{min-width:768px;
 background: #ffab33;
-background: -o-linear-gradient(#ffe2b8, #ff9600);
-background: -ms-linear-gradient(#ffe2b8, #ff9600);
-background: -moz-linear-gradient(#ffe2b8, #ff9600);
-background: -webkit-linear-gradient(#ffe2b8, #ff9600);
+background: -o-linear-gradient(#8585ad, #52527a);
+background: -ms-linear-gradient(#8585ad, #52527a);
+background: -moz-linear-gradient(#8585ad, #52527a);
+background: -webkit-linear-gradient(#8585ad, #52527a);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffe2b8), color-stop(100%, #ff9600));
 -ms-filter: "progid:DXImageTransform.Microsoft.gradient(StartColorStr=#ffffe2b8, EndColorStr=#ffff9600)";
 filter: progid:DXImageTransform.Microsoft.gradient(StartColorStr=#ffffe2b8, EndColorStr=#ffffcc);
